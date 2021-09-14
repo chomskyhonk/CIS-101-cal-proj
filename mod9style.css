@@ -1,0 +1,35 @@
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+ul {
+    padding-left: 0px;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: left
+}
+
+.prevmonth {
+    color:grey;
+}
+
+table {
+    border-collapse:collapse;
+}
+
+.calendar {
+    font-size:x-large;
+    text-align: center;
+}
+
+.calendar th, td{
+   padding: 20px;
+}
+
+.weekend {
+    background-color:pink;
+}
